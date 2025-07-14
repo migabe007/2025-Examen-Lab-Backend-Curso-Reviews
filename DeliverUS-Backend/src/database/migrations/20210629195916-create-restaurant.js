@@ -56,6 +56,9 @@ module.exports = {
         ],
         defaultValue: 'offline'
       },
+      // avgStars: {
+      //  type: Sequelize.DOUBLE
+      // },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE,
